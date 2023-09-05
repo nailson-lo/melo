@@ -1,7 +1,7 @@
 [
     {
         "title":"Antônio Martins Filho",
-        "body":"<p class=\"mt-20 center\"><b>Reitorado: 1955-1967</b></p><div class=\"img-wrapper\"><img class=\"rounded\" src=\"/images/reitoria/2022_UFC_memorial-galeria-de-ex-reitores-01-scaled-e1692985235249-1024x1011.jpg\" /><p class=\"mt0 sm\">Quadro pintado por Floriano Teixeira</p></div>"
+        "body":"<p class=\"mt-20 center\"><b>Reitorado: 1955-1967</b></p><div class=\"img-wrapper\"><img class=\"rounded\" src=\"../images/reitoria/2022_UFC_memorial-galeria-de-ex-reitores-01-scaled-e1692985235249-1024x1011.jpg\" /><p class=\"mt0 sm\">Quadro pintado por Floriano Teixeira</p></div>"
     },
     {
         "title":"Antônio Martins Filho",
@@ -9,7 +9,7 @@
     },
     {
         "title":"Fernando Leite",
-        "body":"<p class=\"mt-20 center\"><b>Reitorado: 1967-1971</b></p><div class=\"img-wrapper\"><img class=\"rounded\" src=\"/images/reitoria/2022_UFC_memorial-galeria-de-ex-reitores-02-scaled-e1692987337861-1024x1012.jpg\" /><p class=\"mt0 sm\">Quadro pintado por L. Burtán</p></div>"
+        "body":"<p class=\"mt-20 center\"><b>Reitorado: 1967-1971</b></p><div class=\"img-wrapper\"><img class=\"rounded\" src=\"../images/reitoria/2022_UFC_memorial-galeria-de-ex-reitores-02-scaled-e1692987337861-1024x1012.jpg\" /><p class=\"mt0 sm\">Quadro pintado por L. Burtán</p></div>"
     },
     {
         "title":"Fernando Leite",
@@ -17,7 +17,7 @@
     },
     {
         "title":"Walter de Moura Cantídio",
-        "body":"<p class=\"mt-20 center\"><b>Reitorado: 1971-1975</b></p><div class=\"img-wrapper\"><img class=\"rounded\" src=\"/images/reitoria/2022_UFC_memorial-galeria-de-ex-reitores-03-scaled-e1692988569389-1024x990.jpg\" /><p class=\"mt0 sm\">Quadro pintado por L. Burtán</p></div>"
+        "body":"<p class=\"mt-20 center\"><b>Reitorado: 1971-1975</b></p><div class=\"img-wrapper\"><img class=\"rounded\" src=\"../images/reitoria/2022_UFC_memorial-galeria-de-ex-reitores-03-scaled-e1692988569389-1024x990.jpg\" /><p class=\"mt0 sm\">Quadro pintado por L. Burtán</p></div>"
     },
     {
         "title":"Walter de Moura Cantídio",
@@ -25,7 +25,7 @@
     },
     {
         "title":"Pedro Teixeira Barroso",
-        "body":"<p class=\"mt-20 center\"><b>Reitorado: 1975-1979</b></p><div class=\"img-wrapper\"><img class=\"rounded\" src=\"/images/reitoria/2022_UFC_memorial-galeria-de-ex-reitores-04-scaled-e1692989566474-1024x987.jpg\" /><p class=\"mt0 sm\">Quadro pintado por L. Burtán</p></div>"
+        "body":"<p class=\"mt-20 center\"><b>Reitorado: 1975-1979</b></p><div class=\"img-wrapper\"><img class=\"rounded\" src=\"../images/reitoria/2022_UFC_memorial-galeria-de-ex-reitores-04-scaled-e1692989566474-1024x987.jpg\" /><p class=\"mt0 sm\">Quadro pintado por L. Burtán</p></div>"
     },
     {
         "title":"Pedro Teixeira Barroso",
@@ -33,7 +33,7 @@
     },
     {
         "title":"Paulo Elpídio de Menezes Neto",
-        "body":"<p class=\"mt-20 center\"><b>Reitorado: 1979-1983</b></p><div class=\"img-wrapper\"><img class=\"rounded\" src=\"/images/reitoria/2022_UFC_memorial-galeria-de-ex-reitores-05-scaled-e1692989824663-1024x937.jpg\" /><p class=\"mt0 sm\">Quadro pintado por L. Burtán</p></div>"
+        "body":"<p class=\"mt-20 center\"><b>Reitorado: 1979-1983</b></p><div class=\"img-wrapper\"><img class=\"rounded\" src=\"../images/reitoria/2022_UFC_memorial-galeria-de-ex-reitores-05-scaled-e1692989824663-1024x937.jpg\" /><p class=\"mt0 sm\">Quadro pintado por L. Burtán</p></div>"
     },
     {
         "title":"Paulo Elpídio de Menezes Neto",
@@ -41,7 +41,7 @@
     },
     {
         "title":"José Anchieta Esmeraldo Barreto",
-        "body":"<p class=\"mt-20 center\"><b>Reitorado: 1983-1987</b></p><div class=\"img-wrapper\"><img class=\"rounded\" src=\"/images/reitoria/jose-anchieta-1.jpg\" /><p class=\"mt0 sm\">Quadro pintado por L. Burtán</p></div>"
+        "body":"<p class=\"mt-20 center\"><b>Reitorado: 1983-1987</b></p><div class=\"img-wrapper\"><img class=\"rounded\" src=\"../images/reitoria/jose-anchieta-1.jpg\" /><p class=\"mt0 sm\">Quadro pintado por L. Burtán</p></div>"
     },
     {
         "title":"José Anchieta Esmeraldo Barreto",
@@ -49,7 +49,7 @@
     },
     {
         "title":"Raimundo Hélio Leite",
-        "body":"<p class=\"mt-20 center\"><b>Reitorado: 1987-1991</b></p><div class=\"img-wrapper\"><img class=\"rounded\" src=\"/images/reitoria/2022_UFC_memorial-galeria-de-ex-reitores-07-686x1024.jpg\" /><p class=\"mt0 sm\">Quadro pintado por L. Burtán</p></div>"
+        "body":"<p class=\"mt-20 center\"><b>Reitorado: 1987-1991</b></p><div class=\"img-wrapper\"><img class=\"rounded\" src=\"../images/reitoria/2022_UFC_memorial-galeria-de-ex-reitores-07-686x1024.jpg\" /><p class=\"mt0 sm\">Quadro pintado por L. Burtán</p></div>"
     },
     {
         "title":"Raimundo Hélio Leite",
@@ -57,7 +57,7 @@
     },
     {
         "title":"Antônio Albuquerque Sousa Filho",
-        "body":"<p class=\"mt-20 center\"><b>Reitorado: 1991-1995</b></p><div class=\"img-wrapper\"><img class=\"rounded\" src=\"/images/reitoria/albuquerque-1002x1024.jpg\" /><p class=\"mt0 sm\">Quadro pintado por Fernando França</p></div>"
+        "body":"<p class=\"mt-20 center\"><b>Reitorado: 1991-1995</b></p><div class=\"img-wrapper\"><img class=\"rounded\" src=\"../images/reitoria/albuquerque-1002x1024.jpg\" /><p class=\"mt0 sm\">Quadro pintado por Fernando França</p></div>"
     },
     {
         "title":"Antônio Albuquerque Sousa Filho",
@@ -65,7 +65,7 @@
     },
     {
         "title":"Roberto Cláudio Frota Bezerra",
-        "body":"<p class=\"mt-20 center\"><b>Reitorado: 1995-2003</b></p><div class=\"img-wrapper\"><img class=\"rounded\" src=\"/images/reitoria/roberto-claudio-1024x990.jpg\" /><p class=\"mt0 sm\">Quadro pintado por Ernane Pereira</p>"
+        "body":"<p class=\"mt-20 center\"><b>Reitorado: 1995-2003</b></p><div class=\"img-wrapper\"><img class=\"rounded\" src=\"../images/reitoria/roberto-claudio-1024x990.jpg\" /><p class=\"mt0 sm\">Quadro pintado por Ernane Pereira</p>"
     },
     {
         "title":"Roberto Cláudio Frota Bezerra",
@@ -73,7 +73,7 @@
     },
     {
         "title":"René Teixeira Barreira",
-        "body":"<p class=\"mt-20 center\"><b>Reitorado: 2003-2006</b></p><div class=\"img-wrapper\"><img class=\"rounded\" src=\"/images/reitoria/2022_UFC_memorial-galeria-de-ex-reitores-10-708x1024.jpg\" /><p class=\"mt0 sm\"></p>"
+        "body":"<p class=\"mt-20 center\"><b>Reitorado: 2003-2006</b></p><div class=\"img-wrapper\"><img class=\"rounded\" src=\"../images/reitoria/2022_UFC_memorial-galeria-de-ex-reitores-10-708x1024.jpg\" /><p class=\"mt0 sm\"></p>"
     },
     {
         "title":"René Teixeira Barreira",
@@ -81,7 +81,7 @@
     },
     {
         "title":"Luís Carlos Uchôa Saunders",
-        "body":"<p class=\"mt-20 center\"><b>Reitorado: 2007 (Pró-tempore)</b></p><div class=\"img-wrapper\"><div class=\"img-wrapper\"><img class=\"rounded\" src=\"/images/reitoria/2022_UFC_memorial-galeria-de-ex-reitores-11-705x1024.jpg\" /><p class=\"mt0 sm\"></p></div>"
+        "body":"<p class=\"mt-20 center\"><b>Reitorado: 2007 (Pró-tempore)</b></p><div class=\"img-wrapper\"><div class=\"img-wrapper\"><img class=\"rounded\" src=\"../images/reitoria/2022_UFC_memorial-galeria-de-ex-reitores-11-705x1024.jpg\" /><p class=\"mt0 sm\"></p></div>"
     },
     {
         "title":"Luís Carlos Uchôa Saunders",
@@ -89,7 +89,7 @@
     },
     {
         "title":"Ícaro de Souza Moreira",
-        "body":"<p class=\"mt-20 center\"><b>Reitorado: 2007 – 2008</b></p><div class=\"img-wrapper\"><img class=\"rounded\" src=\"/images/reitoria/2022_UFC_memorial-galeria-de-ex-reitores-12-708x1024.jpg\" /><p class=\"mt0 sm\"></p></div>"
+        "body":"<p class=\"mt-20 center\"><b>Reitorado: 2007 – 2008</b></p><div class=\"img-wrapper\"><img class=\"rounded\" src=\"../images/reitoria/2022_UFC_memorial-galeria-de-ex-reitores-12-708x1024.jpg\" /><p class=\"mt0 sm\"></p></div>"
     },
     {
         "title":"Ícaro de Souza Moreira",
@@ -97,7 +97,7 @@
     },
     {
         "title":"Jesualdo Pereira Farias",
-        "body":"<p class=\"mt-20 center\"><b>Reitorado: 2008 – 2015</b></p><div class=\"img-wrapper\"><img class=\"rounded\" src=\"/images/reitoria/2022_UFC_memorial-galeria-de-ex-reitores-720x1024.jpg\" /><p class=\"mt0 sm\"></p></div>"
+        "body":"<p class=\"mt-20 center\"><b>Reitorado: 2008 – 2015</b></p><div class=\"img-wrapper\"><img class=\"rounded\" src=\"../images/reitoria/2022_UFC_memorial-galeria-de-ex-reitores-720x1024.jpg\" /><p class=\"mt0 sm\"></p></div>"
     },
     {
         "title":"Jesualdo Pereira Farias",
@@ -105,7 +105,7 @@
     },
     {
         "title":"Henry de Holanda Campos",
-        "body":"<p class=\"mt-20 center\"><b>Reitorado: 2015 – 2019</b></p><div class=\"img-wrapper\"><img class=\"rounded\" src=\"/images/reitoria/2022_UFC_memorial-galeria-de-ex-reitores-1-704x1024.jpg\" /><p class=\"mt0 sm\"></p></div>"
+        "body":"<p class=\"mt-20 center\"><b>Reitorado: 2015 – 2019</b></p><div class=\"img-wrapper\"><img class=\"rounded\" src=\"../images/reitoria/2022_UFC_memorial-galeria-de-ex-reitores-1-704x1024.jpg\" /><p class=\"mt0 sm\"></p></div>"
     },
     {
         "title":"Henry de Holanda Campos",
