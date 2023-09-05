@@ -76,7 +76,7 @@ let closest_point = (lat, lon) => {
   }
 
   //console.log(num,  lat, lon);
-  location.href =  '/paginas/'+ pontos[closest].point + '.html';
+  location.href =  'paginas/'+ pontos[closest].point + '.html';
 }
 
 let localizar = () =>

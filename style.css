@@ -154,7 +154,7 @@ body
 
 .bg-reitoria{
   background-size:cover;
-  background-image: url(images/reitoria.jpg);
+  background-image: url(/melo/images/reitoria.jpg);
 }
 .splash{
   width:1000px;
