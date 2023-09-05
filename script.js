@@ -61,6 +61,8 @@ fetch('/dados/pontos.json')
 load_points();
 
 let closest_point = (lat, lon) => {
+  lat = -3.7377444281957177;
+  lon = -38.5424325518873;
   let num = Math.pow(lat, 2) + Math.pow(lon, 2), min = Math.abs(pontos[0].sum - num), closest = 0;
   pontos[0].diff = Math.abs(num - pontos[0].sum);
   for (i = 1; i < pontos.length; i++)
