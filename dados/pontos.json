@@ -1,0 +1,29 @@
+[
+    {
+        "point":"reitoria",
+        "title":"Reitoria / Administração Superior da UFC",
+        "subtitle":"Linha do tempo",
+        "data_file":"/dados/reitoria.json",
+        "lat":-3.7417069001469083,
+        "lon":-38.53898089879322,
+        "sum":1499.2534192441556 
+    },
+    {
+        "point":"sti",
+        "title":"Superintendência de Tecnologia da Informação",
+        "subtitle":"Linha do tempo",
+        "data_file":"/dados/sti.json",
+        "lat":-3.746331033594715,
+        "lon":-38.57395277797595,
+        "sum":1501.984829130793
+    },   
+    {
+        "point":"cc",
+        "title":"Centro de Ciências",
+        "subtitle":"Linha do tempo",
+        "data_file":"/dados/cc.json",
+        "lat":-3.745498720739981,
+        "lon":-38.5732850216381,
+        "sum":1501.9270780275951
+    }
+]

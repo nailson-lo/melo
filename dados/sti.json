@@ -1,0 +1,35 @@
+[
+    {
+        "title":"Primeira Década",
+        "body":"Continuidade das discussões sobre processamento de dados. Destacam-se os professores Eduardo Sabóia de Carvalho e outros. Já em 1967, o senhor Fernando José Maximus de Codes, a convite do reitor Fernando Leite, explana em reunião do CONSUNI acerca do processamento de dados e da aquisição de um computador para a UFC.\n\n<img src=\"images/sti/ata-consuni-67.png\" /><img src=\"images/sti/ata-consuni-67-2.png\" /> <p><small>Ata da 138ª sessão ordinária do Conselho Universitário, realizada no dia 4 de agosto de 1967;</small></p><br>\n\nFonte: Memorial da UFC / STI"
+    },
+    {
+        "title":"1971",
+        "body":
+            "<p>Celebrado o convênio entre o Ministério da Educação e Cultura (MEC) e Banco Interamericano de Desenvolvimento (BID), para o financiamento da aquisição do primeiro computador da UFC, o IBM 1130. O Centro de Processamento de Dados (CPD) foi inaugurado em 25 de fevereiro de 1971. O computador IBM 1130, mainframe, foi instalado no terceiro pavimento do prédio do antigo Centro de Estudantes Universitários (CEU), no campus do Benfica.</p><p>Mandato do Reitor da UFC, professor Fernando Leite. Nesse período ocorreram algumas inaugurações, dentre elas a do Centro de Processamento de Dados (CPD).</p><p>O CPD iniciou as atividades com o primeiro diretor, Anchises Nogueira Queiroz, com a responsabilidade de organizar as folhas de pagamento, inicialmente. No mesmo ano, o CPD passou a ser Serviço de Processamento de Dados (SPD). O quadro inicial dos servidores era de 18 pessoas, entre servidores e bolsistas. As funções eram de técnico de manutenção, analistas de sistemas, operadores de computação, programadores e perfuradores de cartões. Maria Helena Bezerra Ramalho foi aprovada em uma seleção realizada pela IBM do Brasil, dentre outros. A função que exerceria no CPD era de Perfurador de Cartões e Operador do Sistema IBM 1130.</p>"
+    },
+    {
+        "title":"1975",
+        "body":"Iniciada a construção do prédio do SPD no campus do Pici, em abril, na gestão do reitor, professor Walter Moura Cantídio."
+    },
+    {
+        "title":"1977",
+        "body":"A instalação de equipamentos, conclusão e inauguração do prédio ocorreu em outubro de 1977. Durante o período de construção do prédio, ocorreu a alteração do nome para Núcleo de Processamento de Dados (NPD). Concluído e inaugurado na administração do reitor, professor Paulo Elpídio Menezes Neto. As atividades continuaram nos dois prédios, o IBM 1130 não foi transferido totalmente para o bloco 901, sendo removidas apenas as máquinas perfuradoras e leitoras de cartões para esse novo prédio. Criação do curso de graduação de Processamento de Dados."
+    },
+    {
+        "title":"1979",
+        "body":"Concurso realizado para os cargos, analista de sistema, programador, operador e perfurador-digitador O certame consistia de uma prova escrita de conhecimentos específicos e uma prova prática. O NPD ficou funcionando apenas no campus do Pici. Aquisição do computador DEC-1091, mainframe, mais conhecido por DEC-10, da Digital Corporation. <img src=\"images/sti/ibm-1130.jpg\" /><p><small>Fonte: Site oficial da IBM, Foto IBM-1130.<small></p>"
+    },
+    {
+        "title":"1983",
+        "body":"Compra dos primeiros microcomputadores CP-500 e descentralização dos servidores do NPD em diversos setores da universidade com o computadores da marca Cobra."
+    },
+    {
+        "title":"1989",
+        "body":"Substituição do DEC-10 pelos computadores da Unisys."
+    },
+    {
+        "title":"1990",
+        "body":"Oferta de cursos de Informática, com a criação da Divisão de Aplicações Acadêmicas/NPD para a comunidade universitária e extensivos aos dependentes dos servidores da UFC. <p>Chegada dos computadores de modelos cliente /servidores.</p>"
+    }
+]

@@ -1,0 +1,21 @@
+.swiper {
+    width: 100%;
+    padding-bottom: 50px;
+}
+
+.swiper-slide {
+    background-position: center;
+    background-size: cover;
+    width:600px;
+    height:70vh;
+    overflow-y:auto;
+    font-size:2.2rem;
+    background-color:#FFF;
+    text-align:justify;
+    border-radius:3px;
+}
+
+.slide-title .inner-title{
+    color:#FFF;
+    font-size:2.5rem;
+}

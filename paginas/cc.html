@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Linha do tempo - Centro de Ciências</title>
+    <link rel="stylesheet" href="https://unpkg.com/swiper@8/swiper-bundle.min.css" />
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="swiper.css">
+
+  </head>
+
+  <body>
+    <section id="site">
+      <div class="container">
+        <h1 class="text-center section-heading">Centro de Ciências</h1>
+        <h3 class="text-center section-subheading">Linha do tempo</h3>
+      </div>
+
+      <div class="container">
+        <div id="swiper" class="swiper">
+          <div class="swiper-wrapper" id="timeline">
+            
+          </div>
+
+          <div class="tranding-slider-control">
+            <div class="swiper-pagination"></div>
+            <div class="swiper-button-prev"></div>
+            <div class="swiper-button-next"></div>
+          </div>
+
+        </div>
+      </div>
+    </section>
+
+    <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+    <script src="https://unpkg.com/swiper@8/swiper-bundle.min.js"></script>
+    <script src="script.js"></script>
+    <script src="speech.js"></script>
+    <script type="text/javascript">carregar_timeline('/dados/cc.json');</script>
+  </body>
+
+</html>
