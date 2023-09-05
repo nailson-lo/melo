@@ -38,6 +38,7 @@ body {
   animation: fadeInAnimation ease-in-out 1s;
   animation-iteration-count: 1;
   animation-fill-mode: forwards;
+  height:100vh;
 }
 @keyframes fadeInAnimation {
   0% {
