@@ -54,7 +54,7 @@ let start_swiper = () => {
 })
 
 let load_points = () =>
-fetch('/dados/pontos.json')
+fetch('dados/pontos.json')
 .then((response) => response.json())
 .then((json) => pontos = json);
 
