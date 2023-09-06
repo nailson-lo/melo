@@ -10,6 +10,8 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Fira+Sans+Extra+Condensed&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://unpkg.com/swiper@8/swiper-bundle.min.css" />
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/alertifyjs@1.13.1/build/css/alertify.min.css"/>
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/alertifyjs@1.13.1/build/css/themes/semantic.min.css"/>
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="swiper.css">
   </head>
@@ -26,7 +28,7 @@
         <nav>
           <ul class="menu-bar">
             <li><a class="menu-item" onclick="localizar()" href="#">Navegação por localização</a></li>
-            <li><a class="menu-item" href="paginas/navegar.html">Navegação virtual</a></li>
+            <li><a class="menu-item" onclick="escolher_ponto()" href="#">Navegação virtual</a></li>
             <li><a class="menu-item" href="paginas/sobre.html">Sobre</a></li>
             <li><a class="menu-item" href="paginas/fontes.html">Fontes</a></li>
           </ul>
@@ -34,6 +36,7 @@
       </div>
     </div>
 
+    <script src="https://cdn.jsdelivr.net/npm/alertifyjs@1.13.1/build/alertify.min.js"></script>
     <script type="text/javascript" src="script.js"></script>
   </body>
 

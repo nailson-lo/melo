@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap");
+/*@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap");*/
 *,
 *::before,
 *::after {
@@ -268,4 +268,28 @@ body
 
 .center{
   text-align:center;
+}
+
+
+.ajs-dialog{
+  padding:0 10px;
+  cursor:pointer;
+  font-family:'Fira Sans Extra Condensed', sans-serif;
+}
+.ajs-footer .ajs-button{
+  padding:0 10px;
+  cursor:pointer;
+}
+
+.point-title:first-of-type{
+  margin-top:0
+}
+.point-title{
+  margin-top:15px;
+}
+.point-title a{
+  color:var(--slide-1);
+}
+.point-title a:hover{
+  color:var(--slide-2);
 }

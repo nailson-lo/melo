@@ -76,7 +76,14 @@ let closest_point = (lat, lon) => {
   }
 
   //console.log(num,  lat, lon);
-  location.href =  'paginas/'+ pontos[closest].point + '.html';
+  alertify.confirm(
+    'Ponto mais próximo encontrado:',
+    '<p class="center"><b>'+ pontos[closest].title + '</b></p>',
+    () => location.href = 'paginas/'+ pontos[closest].point + '.html',
+    () => location.href = pontos[closest].directions,
+  )
+  .set('labels', {ok: pontos[closest].subtitle, cancel: '<ion-icon name="map"></ion-icon> Rota para o local'})
+  .set({invokeOnCloseOff: true});
 }
 
 let localizar = () =>
@@ -88,11 +95,16 @@ let localizar = () =>
 
 let localizarPonto = (location) => 
 {
-  console.log(location.coords)
   closest_point(location.coords.latitude, location.coords.longitude);
 }
 
 function noLocationAuth(error) {
   alert('Autorize o compartilhamento de localização para usar este recurso, ou siga a navegação virtual!');
   console.log(error);
+}
+
+let escolher_ponto = () => {
+  let html = '';
+  pontos.forEach((p) => html += '<h3 class="point-title"><a href="/melo/paginas/'+ p.point +'.html">'+ p.title +': '+ p.subtitle  +'</h3>');
+  alertify.alert('Selecione um ponto', html)
 }
