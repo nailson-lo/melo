@@ -54,7 +54,7 @@ let start_swiper = () => {
 })
 
 let load_points = () =>
-fetch('dados/pontos.json')
+fetch('/melo/dados/pontos.json')
 .then((response) => response.json())
 .then((json) => pontos = json);
 
@@ -107,4 +107,18 @@ let escolher_ponto = () => {
   let html = '';
   pontos.forEach((p) => html += '<h3 class="point-title"><a href="/melo/paginas/'+ p.point +'.html">'+ p.title +': '+ p.subtitle  +'</h3>');
   alertify.alert('Selecione um ponto', html)
+}
+
+let fontes = () => {
+  alertify.alert(
+    'Fontes:',
+    '<h3 style="margin-bottom:20px;">Todas as informações dispostas neste sítio eletrônico tem como origem uma ou mais dentre as seguintes fontes:</h3>'+
+    '<ul style="margin-bottom:20px;list-style-type:bullet">'+
+      '<li>Portal da UFC</li>'+
+      '<li>Memorial da UFC</li>'+
+      '<li>Sítio da STI</li>'+
+      '<li>Sítio do Centro de Ciências</li>'+
+    '</ul>'+
+    '<p>Estamos abertos à revisão colaborativa, de forma a tornar a informação cada vez mais útil e precisa.</p>'
+  )
 }

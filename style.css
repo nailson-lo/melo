@@ -154,9 +154,10 @@ body
 
 
 .bg-reitoria{
+  background-attachment:fixed;
+  background-image:url(/melo/images/reitoria.jpg);
+  background-repeat:no-repeat;
   background-size:cover;
-  background-image: url(/melo/images/reitoria.jpg);
-  background-repeat: no-repeat;
 }
 .splash{
   width:1000px;
@@ -276,6 +277,13 @@ body
   cursor:pointer;
   font-family:'Fira Sans Extra Condensed', sans-serif;
 }
+.ajs-dialog li{
+  list-style-type:disc;
+  list-style-position:inside;
+  position: relative;
+  left:5px;
+  line-height:20px;
+}
 .ajs-footer .ajs-button{
   padding:0 10px;
   cursor:pointer;
@@ -292,4 +300,10 @@ body
 }
 .point-title a:hover{
   color:var(--slide-2);
+}
+
+.pointer-link{
+  color:#A33;
+  font-size:4rem;
+  margin-left:10px;;
 }
