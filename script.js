@@ -120,3 +120,14 @@ let fontes = () => {
     '<p>Estamos abertos à revisão colaborativa, de forma a tornar a informação cada vez mais útil e precisa.</p>'
   )
 }
+
+let nav_share = () => {
+  data = {
+    'title': 'Memória da UFC',
+    'text': document.title,
+    'url': location.href
+  };
+  if (navigator.canShare && navigator.canShare(data)) {
+    navigator.share(data);
+  }
+}
