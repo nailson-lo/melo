@@ -155,7 +155,7 @@ body
 
 .bg-reitoria{
   background-attachment:fixed;
-  background-image:url(/melo/images/reitoria.jpg);
+  background-image:url('../images/reitoria.jpg');
   background-repeat:no-repeat;
   background-size:cover;
 }
@@ -311,3 +311,9 @@ body
 .pointer-links{
   float:right;
 }
+
+.prograd .img-wrapper{
+  margin-bottom:25px;
+}
+
+iframe{width:100%;height:auto;margin:10px auto;aspect-ratio:16/9;}

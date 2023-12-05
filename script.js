@@ -54,7 +54,7 @@ let start_swiper = () => {
 })
 
 let load_points = () =>
-fetch('/melo/dados/pontos.json')
+fetch('../dados/pontos.json')
 .then((response) => response.json())
 .then((json) => pontos = json);
 
@@ -103,7 +103,7 @@ function noLocationAuth(error) {
 
 let escolher_ponto = () => {
   let html = '';
-  pontos.forEach((p) => html += '<h3 class="point-title"><a href="/melo/paginas/'+ p.point +'.html">'+ p.title +': '+ p.subtitle  +'</h3>');
+  pontos.forEach((p) => html += '<h3 class="point-title"><a href="/paginas/'+ p.point +'.html">'+ p.title +': '+ p.subtitle  +'</h3>');
   alertify.alert('Selecione um ponto', html)
 }
 

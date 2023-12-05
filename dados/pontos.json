@@ -28,5 +28,15 @@
         "lon":-38.5732850216381,
         "sum":1501.9270780275951,
         "directions":"https://goo.gl/maps/TVdDbTz2nmoRqhZbA"
+    },   
+    {
+        "point":"prograd",
+        "title":"Pró-Reitoria de Graduação",
+        "subtitle":"Linha do tempo",
+        "data_file":"/dados/prograd.json",
+        "lat":-3.742680305410392,
+        "lon":-38.57726201664082,
+        "sum":1502.2128,
+        "directions":"https://goo.gl/maps/TVdDbTz2nmoRqhZbA"
     }
 ]
